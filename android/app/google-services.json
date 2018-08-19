@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "272769656721",
+    "firebase_url": "https://csca-test.firebaseio.com",
+    "project_id": "csca-test",
+    "storage_bucket": "csca-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272769656721:android:2d5d382ba0d99d26",
+        "android_client_info": {
+          "package_name": "com.nepalisahitya.nepalisahitya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272769656721-5smf35mb7r9atefkvi81lmc06vpip786.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1p33xZdjrKqTJCN3qO-e43zGW49c38ts"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272769656721:android:f99c4a1b117afb17",
+        "android_client_info": {
+          "package_name": "com.react_nepalisahitya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272769656721-5smf35mb7r9atefkvi81lmc06vpip786.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1p33xZdjrKqTJCN3qO-e43zGW49c38ts"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

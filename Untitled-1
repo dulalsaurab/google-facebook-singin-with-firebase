@@ -1,0 +1,17 @@
+Saurabs-MacBook-Pro:app saurabdulal$ keytool -exportcert -list -v -alias androiddebugkey -keystore ~/.android/debug.keystore
+Enter keystore password:  
+Alias name: androiddebugkey
+Creation date: May 28, 2018
+Entry type: PrivateKeyEntry
+Certificate chain length: 1
+Certificate[1]:
+Owner: C=US, O=Android, CN=Android Debug
+Issuer: C=US, O=Android, CN=Android Debug
+Serial number: 1
+Valid from: Mon May 28 18:58:06 CDT 2018 until: Wed May 20 18:58:06 CDT 2048
+Certificate fingerprints:
+	 MD5:  C7:1E:1D:9E:44:3F:95:40:B9:FD:D3:9F:6D:D4:C9:CE
+	 SHA1: 5B:45:35:D8:03:55:D1:A3:94:C2:DA:C9:B7:CE:8A:BA:FF:7B:87:05
+	 SHA256: 4B:E8:96:D5:84:9D:ED:57:A8:31:76:9C:38:9C:30:F5:6F:90:2A:DB:5B:10:DE:0A:4F:4F:CB:BB:4B:7E:71:CE
+	 Signature algorithm name: SHA1withRSA
+	 Version: 1
